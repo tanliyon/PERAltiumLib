@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.JET.OLEDB.4.0;Data Source=C:\Users\user\Documents\Altium_TLY\Custom Libraries\AltiumLibraries.mdb;Persist Security Info=False
+ConnectionString=Provider=MICROSOFT.JET.OLEDB.4.0;Data Source=E:\Projects\PERAltiumLib\AltiumLibraries.mdb;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -12,7 +12,7 @@ QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Access
-LibraryDatabasePath=C:\Users\user\Documents\Altium_TLY\Custom Libraries\AltiumLibraries.mdb
+LibraryDatabasePath=E:\Projects\PERAltiumLib\AltiumLibraries.mdb
 DatabasePathRelative=0
 TopPanelCollapsed=0
 LibrarySearchPath=
